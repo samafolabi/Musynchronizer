@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "745721324032",
+    "firebase_url": "https://musynchronizer.firebaseio.com",
+    "project_id": "musynchronizer",
+    "storage_bucket": "musynchronizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745721324032:android:8ef1dd3cedd58c0b",
+        "android_client_info": {
+          "package_name": "com.imperial.musynchronizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745721324032-62jd3galm3td2piao8sk8fgg9l4t58le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imperial.musynchronizer",
+            "certificate_hash": "9F9E740A4F9C74AC030C03FA49050035828F8372"
+          }
+        },
+        {
+          "client_id": "745721324032-1351ej2m8d76j8gj7es2enpgf3juveuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [        {
+          "current_key": "AIzaSyAdqnR3XgE6yBTso0bplHTVDIFZkGv-zo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745721324032-1351ej2m8d76j8gj7es2enpgf3juveuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

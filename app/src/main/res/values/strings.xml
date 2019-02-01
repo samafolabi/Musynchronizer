@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musynchronizer</string>
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="FCM_PREF">com.imperial.musynchronizer.fcm_pref</string>
+    <string name="FCM_TOKEN">com.imperial.musynchronizer.fcm_token</string>
+</resources>
